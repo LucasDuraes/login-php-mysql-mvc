@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.img-lin{
+    width: 194px;
+    height: 194px;
+    margin-bottom: 10px;
+}
+
+.img-git{
+    width: 212px;
+    height: 212px;
+    margin-bottom: 10px;
+}
+
+#info-linkedin, #info-github{
+    margin: 30px auto;
+}
+
+#informacoes{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}

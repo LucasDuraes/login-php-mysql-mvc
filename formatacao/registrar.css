@@ -1,0 +1,30 @@
+.form-registro{
+    max-width: 980px;
+    background-color: rgba(0,0,0,.2);
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-registro input[type="submit"]{
+    line-height: 30px;
+    height: 34px;
+}
+
+.form-registro input{
+    align-items: center;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.form-registro div{
+    flex: 1 1 200px;
+    margin-top: 20px;
+    padding: 5px;
+}

@@ -1,0 +1,30 @@
+.form-logar{
+    max-width: 400px;
+    background-color: rgba(0,0,0,.2);
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    display: grid;
+}
+
+.form-logar input[type="submit"]{
+    line-height: 30px;
+    height: 34px;
+}
+
+.form-logar input{
+    align-items: center;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.form-logar a{
+    text-decoration: none;
+    font-size: 0.6rem;
+    font-family: Arial;
+    color: blue;
+}
